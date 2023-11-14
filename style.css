@@ -1,0 +1,49 @@
+body {
+    margin: 1;
+}
+.tabule {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(108, 36, 175);
+    color: white;
+    margin-top: 25px;
+}
+.text {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(108, 36, 175);
+    background-size: 35px;
+   
+}
+
+
+.chatbox{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(108, 36, 175);
+    color: white;
+}
+p{
+    background-color: blue;
+    padding: 20px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    color: white;
+}
+.patička {
+    background-color: aqua;
+    color: black;
+    border: 0px solid rgb(68, 150, 150);
+    border-radius: 0px;
+    color: black;
+}
+
+.header {
+    display: flex;
+    justify-content: right;
+    background-color: blue;
+    padding: 16px;
+    margin: 0px;
+    color: white;
+
+}
